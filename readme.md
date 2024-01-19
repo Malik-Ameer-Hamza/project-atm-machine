@@ -32,7 +32,7 @@ npx ameer_atm_project
 
 ## How to Run:
 
-- Clone the repository: git clone https://github.com/your-username/atm-interactive.git
+- Clone the repository: git clone https://github.com/Malik-Ameer-Hamza/project-atm-machine.git
 - Install dependencies: npm install
 - Compile TypeScript (if necessary): tsc atm_machine.ts
 - Run the application: node atm_machine.js
