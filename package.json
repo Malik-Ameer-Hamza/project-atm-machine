@@ -1,6 +1,6 @@
 {
-  "name": "ameer-atm-project",
-  "version": "1.2.1",
+  "name": "ameer-atm-machine",
+  "version": "1.0.0",
   "description": "",
   "main": "atm_machine.js",
   "type": "module",
